@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'KuzQuality | Kuzkay'
-description 'Towing script made by KuzQuality - Revoked by Remaboy [ESX - QBCORE]' 
+description 'Towing script made by KuzQuality - Revoked by WolZephyr [ESX - QBCORE]' 
 version '1.0.4'
 
 
