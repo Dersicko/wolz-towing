@@ -37,3 +37,5 @@ client_scripts {
     'shared/config.lua',
     'client/client.lua',
 }
+
+--test
